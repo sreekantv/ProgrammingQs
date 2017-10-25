@@ -6,7 +6,7 @@ import java.io.*;
 class MergeArrays {
 	public static void main (String[] args) {
 		Scanner sc=new Scanner(System.in);
-		//test
+		//test 1
 	
 		int t=sc.nextInt();
 				System.out.println(sc.next());
